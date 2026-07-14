@@ -44,6 +44,6 @@ Download It As ZIP File And Extract here Then In CMD Write
 cd Profile 
 Then
 npm run dev
-then You Will See It in "localhost:5713/"
+then You Will See It in "localhost:5173/"
 ```
 Or <a href="https://github.com/em1-23" target="_blank">Click Me</a>
